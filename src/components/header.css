@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #004643;
+  box-shadow: black 10px;
+}
+
+.nav-items {
+  display: flex;
+  justify-content: flex-end ;
+  align-items: center;
+  margin-right: 20px;
+  list-style: none;
+}
+
+.nav-items > li{
+  padding: 10px;
+  color: #FAF4D3;
+  font-weight: 900;
+
+}
+
+.logo {
+  width: 120px;
+}
